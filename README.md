@@ -1,2 +1,2 @@
 # docker_anvaya_elk
-ELK stack to Anvaya Inventory Project
+ELK stack for Anvaya Inventory Project
